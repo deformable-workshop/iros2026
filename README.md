@@ -1,3 +1,3 @@
-# icra2026
-Website for the ICRA 2026 workshop on representing and manipulating deformable objects
-https://deformable-workshop.github.io/icra2026/
+# iros2026
+Website for the IROS 2026 workshop on deformable objects
+https://deformable-workshop.github.io/iros2026/
