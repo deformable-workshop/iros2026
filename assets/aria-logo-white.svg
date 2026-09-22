@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 130" role="img" aria-label="ARIA - Advanced Research + Invention Agency">
+	<g fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
+		<text x="0" y="34" font-size="24" font-weight="400">Advanced</text>
+		<text x="0" y="60" font-size="24" font-weight="400">Research</text>
+		<text x="0" y="86" font-size="24" font-weight="400">+ Invention</text>
+		<text x="0" y="112" font-size="24" font-weight="400">Agency</text>
+		<rect x="172" y="8" width="3" height="114" fill="#ffffff"/>
+		<text x="196" y="104" font-size="92" font-weight="700" letter-spacing="2">ARIA</text>
+	</g>
+</svg>
